@@ -32,6 +32,7 @@ and suggestions to [[mailto:pinard@iro.umontreal.ca][François Pinard]].
 
 * How to install 
 python pppp -C ppppconfig.py pppp.rst.in pymacs.el.in pymacs.rst.in Pymacs.py.in contrib tests
+
 python setup.py install
 
 ** Notes for 0.25
